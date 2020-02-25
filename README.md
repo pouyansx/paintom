@@ -1,4 +1,4 @@
-# paintom1
+# paintom
 
 A new Flutter application.
 
