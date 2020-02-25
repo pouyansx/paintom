@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954359691224",
+    "firebase_url": "https://paintom1-9ca81.firebaseio.com",
+    "project_id": "paintom1-9ca81",
+    "storage_bucket": "paintom1-9ca81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954359691224:android:2c7f3b3ae9da5c4dfe24ad",
+        "android_client_info": {
+          "package_name": "flutter.test.com.example.paintom1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954359691224-umiusic5vceapnqsgpbsaccmdc7d8t3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TbfQukPfKcENacKLOhc5S7guifoOL-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954359691224-umiusic5vceapnqsgpbsaccmdc7d8t3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
